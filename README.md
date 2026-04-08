@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Michaela-Ann Mueller
 
-<!--
-**mmmueller04/mmmueller04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Environmental Science student at Knox College (graduating June 2026), with hands-on experience in GIS spatial analysis, GPS field data collection, and environmental research. I'm pursuing a career in **GIS and environmental consulting**.
 
-Here are some ideas to get you started:
+📍 Overland Park, KS &nbsp;|&nbsp; 📧 mmueller0531@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/michaela-ann-mueller-614a6a274)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+| GIS & Mapping | Field & Lab | Data & Reporting |
+|---|---|---|
+| ArcGIS Pro & Online | GPS field data collection | Excel & ANOVA |
+| StoryMaps | Soil coring & infiltration testing | Technical writing |
+| Spatial analysis & overlays | LOI / NPK analysis | Dataset management |
+| Buffer & land-use analysis | Environmental site assessment | Metadata & QA |
+
+---
+
+## Projects
+
+### 🗺️ [gis-projects](https://github.com/mmmueller04/gis-projects)
+Spatial analysis and mapping projects using ArcGIS Pro and ArcGIS Online — habitat protection, food access, and land-use planning.
+
+### 🌱 [environmental-research](https://github.com/mmmueller04/environmental-research)
+Collaborative and independent research on stormwater management, soil carbon sequestration, and campus sustainability.
+
+### 🔬 [field-research](https://github.com/mmmueller04/field-research)
+Senior thesis (in progress) — assessing rain garden impact on soil health across campus land-use types using GPS field sampling and GIS.
+
+---
+
+*GPA: 3.60 &nbsp;|&nbsp; Dean's List (7 terms) &nbsp;|&nbsp; Knox Trustees' Distinguished Scholarship*
