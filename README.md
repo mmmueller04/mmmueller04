@@ -109,6 +109,6 @@ In-depth review of microbial, physical, and policy factors influencing carbon st
 
 ## Resume
 
-📄 [Download Resume (PDF)](Mueller_Resume.pdf)
+📄 [Download Resume (PDF)](Mueller.Resume.pdf)
 
 For inquiries: mmueller0531@gmail.com
