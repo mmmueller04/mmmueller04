@@ -74,7 +74,7 @@ Investigated Stentor spp. behavior and morphology through observation and experi
 ### 📄 Wetland Loss in the Mississippi River Delta
 Examines anthropogenic and climate drivers of wetland loss in coastal Louisiana, evaluating current sediment diversion restoration strategies. Proposes a function-centered adaptive management framework — arguing that restoration success should be measured by ecological metrics, not just land area gained.
 
-🔗 [Presentation](Wetland_Loss_in_the_Mississippi_River_Delta.pdf)
+🔗 [Presentation](Wetland_Loss_Presentation.pdf)
 
 ---
 
