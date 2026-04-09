@@ -21,6 +21,8 @@ I'm graduating June 2026 and actively looking for GIS and environmental consulti
 
 🎓 GPA: 3.60 &nbsp;|&nbsp; Dean's List (7 terms) &nbsp;|&nbsp; Knox Trustees' Distinguished Scholarship
 
+I'm graduating June 2026 and actively looking for GIS and environmental consulting opportunities. Valid driver's license and reliable transportation.
+
 ---
 
 ## GIS Projects
