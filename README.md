@@ -19,13 +19,13 @@ Environmental Science student at Knox College (graduating June 2026), with hands
 
 ## Projects
 
-### 🗺️ [gis-projects](https://github.com/mmmueller04/gis-projects)
+### 🗺️ [gis-projects](https://github.com/mmmueller04/gis-projects#readme)
 Spatial analysis and mapping projects using ArcGIS Pro and ArcGIS Online — habitat protection, food access, and land-use planning.
 
-### 🌱 [environmental-research](https://github.com/mmmueller04/environmental-research)
+### 🌱 [environmental-research](https://github.com/mmmueller04/environmental-research#readme)
 Collaborative and independent research on stormwater management, soil carbon sequestration, and campus sustainability.
 
-### 🔬 [field-research](https://github.com/mmmueller04/field-research)
+### 🔬 [field-research](https://github.com/mmmueller04/field-research#readme)
 Senior thesis (in progress) — assessing rain garden impact on soil health across campus land-use types using GPS field sampling and GIS.
 
 ---
