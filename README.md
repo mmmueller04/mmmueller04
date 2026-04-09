@@ -89,7 +89,7 @@ Compares how urbanization, climate drivers, and governance strategies shape floo
 ### 📄 Soil Carbon Sequestration — Literature Review
 In-depth review of microbial, physical, and policy factors influencing carbon storage in agricultural soils. Synthesizes recent research to evaluate soil health, microbial efficiency, and economic barriers to large-scale implementation.
 
-🔗 [Full Paper](Soil_Carbon_Sequestration.pdf)
+🔗 [Paper](Soil_Carbon_Sequestration.pdf)
 
 ---
 
