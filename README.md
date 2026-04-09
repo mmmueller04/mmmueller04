@@ -17,11 +17,9 @@ I grew up in Overland Park, Kansas, where I developed an early interest in the t
 
 At Knox College I've built skills across GIS mapping, field data collection, and environmental research. My senior thesis on rain garden soil health is the project I'm most proud of — it's the first time everything came together: designing the study, collecting field data, running the analysis, and writing it up.
 
-I'm graduating June 2026 and actively looking for GIS and environmental consulting opportunities.
+I'm graduating June 2026 and actively looking for GIS and environmental consulting roles. Valid driver's license and reliable transportation.
 
 🎓 GPA: 3.60 &nbsp;|&nbsp; Dean's List (7 terms) &nbsp;|&nbsp; Knox Trustees' Distinguished Scholarship
-
-I'm graduating June 2026 and actively looking for GIS and environmental consulting opportunities. Valid driver's license and reliable transportation.
 
 ---
 
