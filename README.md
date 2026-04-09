@@ -2,7 +2,7 @@
 
 Environmental Science student at Knox College (graduating June 2026) with hands-on experience in GIS spatial analysis, GPS field data collection, and environmental research. Pursuing a career in **GIS and environmental consulting**.
 
-📍 Overland Park, KS &nbsp;|&nbsp; 📧 mmueller0531@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/michaela-ann-mueller-614a6a274) &nbsp;|&nbsp; [Portfolio Website](https://mmmueller04.github.io)
+📍 Overland Park, KS &nbsp;|&nbsp; 📧 mmueller0531@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/michaela-ann-mueller-614a6a274) &nbsp;
 
 ---
 
