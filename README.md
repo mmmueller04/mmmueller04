@@ -81,7 +81,7 @@ Examines anthropogenic and climate drivers of wetland loss in coastal Louisiana,
 ### 📄 Urban Flooding: Houston, TX vs. Lahore, Pakistan
 Compares how urbanization, climate drivers, and governance strategies shape flood risk and mitigation in two rapidly growing cities. Analyzes how differences in impervious surface cover, drainage infrastructure, and planning approaches produce vastly different hydrologic outcomes.
 
-🔗 [Paper](Houston_Lahore_Flooding.pdf) *(coming soon)*
+🔗 [Paper](Houston_Lahore_Flooding.pdf)
 
 ---
 
