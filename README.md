@@ -13,9 +13,7 @@ Sustainability-focused environmental scientist (B.S. Environmental Science, Biol
 
 ## About
 
-I study how built environments and natural systems interact. At Knox College, my senior research examined how rain gardens affect soil health. I designed the study, collected soil samples, ran lab tests (such as bulk density, pH, and loss on ignition), analyzed the data, wrote a 20+ page paper with a literature review, and presented it to students and faculty.
-
-I also worked on a collaborative biophilic and resilient design project, where I helped build an on-campus rain garden, helped design a learning center mockup in SketchUp, and built a website documenting our process and findings. Alongside research, I served as a TA for Animal Behavior, a tutor for ENVS courses, and a computer lab assistant.
+I'm interested in how thoughtful design can help built environments and natural systems work together. At Knox College, I carried out a senior research project on how rain gardens affect soil health, from study design and soil sampling to lab analysis, a 20+ page paper, and a presentation to students and faculty. I also helped build an on-campus rain garden, design a learning center mockup in SketchUp, and launch a website for a collaborative biophilic and resilient design project. Along the way, I supported fellow students as a TA, ENVS tutor, and computer lab assistant, among other roles.
 
 ---
 
